@@ -139,9 +139,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="fun.h" />
     <ClInclude Include="Wybor.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="fun.cpp" />
     <ClCompile Include="Kol1.cpp" />
     <ClCompile Include="Kol2.cpp" />
   </ItemGroup>
